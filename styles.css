@@ -10,7 +10,7 @@ p {
 
 .model-view-css-fix{
   object-fit: contain;
-  width: 80vw;
+  width: auto;
   height: 80vh;
 }
 model-viewer {
