@@ -8,9 +8,13 @@ p {
   color: red;
 }
 
-.model-view-css-fix{
+.model-view-css-fix {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid green; 
+  
   object-fit: contain;
-  margin: auto;
   width: auto;
   height: 80vh;
 }
