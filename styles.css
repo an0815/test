@@ -7,7 +7,14 @@ h1 {
 p {
   color: red;
 }
-div {
-  width: 100%;
-  margin: auto;
+
+.model-view-css-fix{
+  object-fit: contain;
+  height: 80vh;
+  width: auto;  
 }
+model-viewer {
+  width: 40vh;
+  height: 80vh;
+} 
+
